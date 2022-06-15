@@ -1,4 +1,4 @@
-# Intrusion_detection system on a RasspberryPi
+# Intrusion_detection system on a RaspberryPi
 
 You must have two mail accounts
   one for sending email
